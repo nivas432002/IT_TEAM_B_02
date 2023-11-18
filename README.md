@@ -2,6 +2,7 @@
 Mini Project
 
 #ABSTRACT
+
 The primary objective of the 'Content-Based Automatic Classification of Research Articles' project is to create an advanced system that can autonomously categorize research papers based on the methodologies employed in the studies. This project addresses the need for more efficient and precise information retrieval in academic research by developing a machine learning-driven approach. By recognizing and extracting key details about research methodologies from research papers, The proposed method applied on Research Articles datasets as Training and Testing Datasets which enhance the classification process by using the term frequency - inverse document frequency (TF-IDF) along with features extraction and selection. After finding the concept weight of TF-IDF the Random Forest classifier used to classify the Research articles to the pre-defined category.
 
 #Steps to run the Project
