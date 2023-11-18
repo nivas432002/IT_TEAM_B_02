@@ -7,9 +7,16 @@ The primary objective of the 'Content-Based Automatic Classification of Research
 #Steps to run the Project
 
 1.Open the file in Google Colab
+
 2.Run all the Codes to Build the Model
+
 3.After, This run the input Module
+
 4.Give PDF files as Input
+
 5.Run the pre-processing step
+
 6.Run the Output Module
+
 7.The Domains of the Document will be predicted and displayed to the user.
+
